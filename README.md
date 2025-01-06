@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tarun_kunapareddy
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Python, C, C++
-- 📫 How to reach me: nagatarun5161@gmail.com
-- 😄 Pronouns: Tarun
+- 🌱 I’m Proficient in Python, C, C++
+- 📫 How to reach me: nagatarun5161@yahoo.com
+- 😄 Pronouns: Tarun Kunapareddy
   
 
 <!---
